@@ -1,0 +1,7 @@
+﻿__pycache__/
+whatsapp_profile/
+Contacts.xlsx
+whatsapp_report_*.json
+whatsapp_report_*.xlsx
+venv/
+.env
